@@ -1,4 +1,5 @@
-![Uploading Screenshot 2023-11-24 at 18.54.19.png…]()
+<img width="1710" alt="Screenshot 2023-11-24 at 18 54 19" src="https://github.com/mrolaleyeisrael/restaurant-finder/assets/64069004/4fc86a6a-9828-41d6-a982-06395436ef57">
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
